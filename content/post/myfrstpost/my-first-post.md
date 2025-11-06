@@ -1,15 +1,9 @@
 ---
-title: "My First Post"
-description: 
-date: 2025-11-06T23:12:53+01:00
-image: 
-math: 
-license: 
-hidden: false
-comments: true
-draft: true
+title: Test post
+description: TEst post
+date: 2025-08-24 00:00:00+0000
+math: true
 ---
-
 Stack has built-in support for math typesetting using [KaTeX](https://katex.org/).
 
 **It's not enabled by default side-wide,** but you can enable it for individual posts by adding `math: true` to the front matter. Or you can enable it side-wide by adding `math = true` to the `params.article` section in `config.toml`.
