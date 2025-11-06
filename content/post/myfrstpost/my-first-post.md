@@ -1,8 +1,13 @@
 ---
-title: Math Typesetting
-description: Math typesetting using KaTeX
-date: 2023-08-24 00:00:00+0000
-math: true
+title: "My First Post"
+description: 
+date: 2025-11-06T23:12:53+01:00
+image: 
+math: 
+license: 
+hidden: false
+comments: true
+draft: true
 ---
 
 Stack has built-in support for math typesetting using [KaTeX](https://katex.org/).
