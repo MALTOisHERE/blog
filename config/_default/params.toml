@@ -77,7 +77,7 @@ enabled = true
 ## Comments
 [comments]
 enabled = true
-provider = "disqus"
+provider = "giscus"
 
 [comments.disqusjs]
 shortname = ""
@@ -128,13 +128,12 @@ serverName = "cactus.chat"
 siteName = ""
 
 [comments.giscus]
-repo = ""
-repoID = ""
-category = ""
-categoryID = ""
-mapping = ""
-lightTheme = ""
-darkTheme = ""
+repo = "MALTOisHERE/blog-comments"
+repoId = "R_kgDOQSecDw"
+category = "General"
+categoryId = "DIC_kwDOQSecD84CxneO"
+mapping = "pathname"
+theme = "preferred_color_scheme"
 reactionsEnabled = 1
 emitMetadata = 0
 
