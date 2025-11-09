@@ -15,7 +15,7 @@ url = "https://github.com/MALTOisHERE"
 [social.params]
 icon = "brand-github"
 
-[[social]]
+[[social]] 
 identifier = "twitter"
 name = "Twitter"
 url = "https://twitter.com"
