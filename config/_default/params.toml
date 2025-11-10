@@ -79,13 +79,6 @@ enabled = true
 enabled = true
 provider = "giscus"
 
-[comments.disqusjs]
-shortname = ""
-apiUrl = ""
-apiKey = ""
-admin = ""
-adminLabel = ""
-
 [comments.utterances]
 repo = ""
 issueTerm = "pathname"
