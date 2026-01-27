@@ -25,7 +25,7 @@ Ensure you have [Hugo](https://gohugo.io/installation/) installed on your machin
 1.  Clone this repository:
 
     ```bash
-    git clone https://github.com/MALTOisHERE/blog
+    git clone https://github.com/MALTOisHERE/blog.git
     cd blog
     ```
 
