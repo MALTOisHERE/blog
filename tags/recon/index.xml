@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recon on Med. AIT OUAARAB - Blog</title><link>https://blog.malto.icu/tags/recon/</link><description>Recent content in Recon on Med. AIT OUAARAB - Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 10 Nov 2025 13:00:00 +0100</lastBuildDate><atom:link href="https://blog.malto.icu/tags/recon/index.xml" rel="self" type="application/rss+xml"/><item><title>Welcome — My Cyber Journey</title><link>https://blog.malto.icu/p/welcome-my-cyber-journey/</link><pubDate>Mon, 10 Nov 2025 13:00:00 +0100</pubDate><guid>https://blog.malto.icu/p/welcome-my-cyber-journey/</guid><description>&lt;img src="https://blog.malto.icu/p/welcome-my-cyber-journey/cover.jpg" alt="Featured image of post Welcome — My Cyber Journey" /&gt;&lt;h1 id="welcome-to-my-blog"&gt;Welcome to my blog
+&lt;/h1&gt;&lt;p&gt;Hi — welcome! This space is where I document my learning journey in cybersecurity, share tutorials, write small tools and recon notes, and explain concepts in a practical, hands‑on way.&lt;/p&gt;
+&lt;p&gt;Whether you&amp;rsquo;re learning to recon, exploring web security, or just curious about tooling and automation, you&amp;rsquo;ll find clear writeups, examples, and reproducible steps you can try locally.&lt;/p&gt;
+&lt;h2 id="what-this-blog-is-about"&gt;What this blog is about
+&lt;/h2&gt;&lt;p&gt;I write about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Practical recon techniques (DNS, endpoints, automated checks)&lt;/li&gt;
+&lt;li&gt;Tooling and scripts I build or improve (parsers, scanners, wrappers)&lt;/li&gt;
+&lt;li&gt;Walkthroughs and how‑tos (Hugo tips, CI/CD snippets, deployment notes)&lt;/li&gt;
+&lt;li&gt;Short writeups on security concepts and recent things I study&lt;/li&gt;
+&lt;li&gt;Postable, copy‑pasteable code examples and Markdown documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I aim to keep posts focused: reproducible commands, sample outputs, and a short explanation of &lt;em&gt;why&lt;/em&gt; the technique matters.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="who-i-am"&gt;Who I am
+&lt;/h2&gt;&lt;p&gt;I&amp;rsquo;m a cybersecurity engineer learning by building and teaching. I enjoy:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;building automation and recon pipelines&lt;/li&gt;
+&lt;li&gt;writing clear reports and Markdown docs&lt;/li&gt;
+&lt;li&gt;experimenting with tooling and improving workflows&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you want to know more about my projects or collaborate on something, contact me.&lt;/p&gt;</description></item></channel></rss>
