@@ -25,8 +25,8 @@ Ensure you have [Hugo](https://gohugo.io/installation/) installed on your machin
 1.  Clone this repository:
 
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/MALTOisHERE/blog
+    cd blog
     ```
 
 2.  This project uses Hugo Modules. You can initialize dependencies by running:
